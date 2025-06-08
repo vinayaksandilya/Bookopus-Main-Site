@@ -12,7 +12,7 @@ Welcome to the main site for **Bookopus**, a platform built to organize, display
 ## 🌐 Live Preview
 
 Check out the live site: [https://bookopus.com](https://bookopus.com)  
-(*Replace with the actual link if not live*)
+No longer Active 
 
 ---
 
